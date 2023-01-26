@@ -1,0 +1,28 @@
+{
+    "name": "Animeta #4280",
+    "symbol": "ANM",
+    "description": "What does your animeta look like?",
+    "image": "6.png",
+    "attributes": [
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Beam Glasses"
+        },
+        {
+            "trait_type": "Hair Style",
+            "value": "Short Messy"
+        },
+        {
+            "trait_type": "Head Accessory",
+            "value": "Gun Cap"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "6.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Animeta #5848",
+    "symbol": "ANM",
+    "description": "What does your animeta look like?",
+    "image": "5.png",
+    "attributes": [
+        {
+            "trait_type": "Eye Accessory",
+            "value": "Goggles"
+        },
+        {
+            "trait_type": "Overshirt Color",
+            "value": "Multicolor"
+        },
+        {
+            "trait_type": "Hair Style",
+            "value": "Puffy Curly"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "5.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

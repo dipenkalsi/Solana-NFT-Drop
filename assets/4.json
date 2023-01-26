@@ -1,0 +1,28 @@
+{
+    "name": "Animeta #5205",
+    "symbol": "ANM",
+    "description": "What does your animeta look like?",
+    "image": "4.png",
+    "attributes": [
+        {
+            "trait_type": "Eye Type",
+            "value": "Big"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Open"
+        },
+        {
+            "trait_type": "Eye Color",
+            "value": "Blue"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "4.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

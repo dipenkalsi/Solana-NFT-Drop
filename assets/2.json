@@ -1,0 +1,28 @@
+{
+    "name": "Animeta #7912",
+    "symbol": "ANM",
+    "description": "What does your animeta look like?",
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "Hair Color",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Hair Style",
+            "value": "Bouncy"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

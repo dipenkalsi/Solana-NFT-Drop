@@ -1,0 +1,15 @@
+{
+  "name": "Solana Animeta",
+  "symbol": "ANM",
+  "description": "This is the Solana clone of the popular ethereum NFT Collection Animeta.",
+  "image": "collection.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

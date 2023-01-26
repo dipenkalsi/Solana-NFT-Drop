@@ -1,0 +1,28 @@
+{
+    "name": "Animeta #2414",
+    "symbol": "ANM",
+    "description": "What does your animeta look like?",
+    "image": "3.png",
+    "attributes": [
+        {
+            "trait_type": "Hair Color",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth Type",
+            "value": "Teeth Grin"
+        },
+        {
+            "trait_type": "Eye Color",
+            "value": "Blue"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "3.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Animeta #2373",
+    "symbol": "ANM",
+    "description": "What does your animeta look like?",
+    "image": "1.png",
+    "attributes": [
+        {
+            "trait_type": "Eye Color",
+            "value": "Light Red"
+        },
+        {
+            "trait_type": "Hair Color",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Mouth Type ",
+            "value": "Masked"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
