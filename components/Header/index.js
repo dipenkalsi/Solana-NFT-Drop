@@ -1,4 +1,4 @@
-import Logo from './Logo'
+import Logo from './logo'
 import { WalletMultiButton } from '@solana/wallet-adapter-react-ui'
 import Link from "next/link";
 import { useRouter } from "next/router";
